@@ -15,10 +15,21 @@ This project is a virtual nutrition assistant powered by IBM watsonx.ai Granite 
 - Granite Foundation Models (LLMs)
 - 
 ## 📸 Screenshots
-Include UI screenshots from Prompt Lab and outputs.
 
-## 📁 Files
-- `screenshots/`: Prompt lab and result images
+### 1️⃣ Prompt Lab Interface
+This shows the AI prompt being tested in IBM watsonx.ai.
+![Prompt Lab Interface](screenshots/prompt_lab/prompt_lab_interface.png)
+
+### 2️⃣ User Input in text and images + AI Meal Plan Output
+This demonstrates how the assistant responds to user input with a detailed, personalized meal plan.
+![Meal Plan Output](screenshots/text_input_to_meal_plan_output)
+![Meal Plan Output](screenshots/image_input_to_meal_plan_output)
+
+
+### 3️⃣ Final Prompt Saved
+Shows the saved prompt named **"Nutrition Assistant - Meal Planner"** in Prompt Lab.
+![Saved Prompt](screenshots/saved_prompt/saved_prompts.png)
+
 
 ## ⚙️ How it Works
 Prompt built to:
