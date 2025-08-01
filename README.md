@@ -22,8 +22,18 @@ This shows the AI prompt being tested in IBM watsonx.ai.
 
 ### 2️⃣ User Input in text and images + AI Meal Plan Output
 This demonstrates how the assistant responds to user input with a detailed, personalized meal plan.
-![Meal Plan Output](screenshots/text_input_to_meal_plan_output)
-![Meal Plan Output](screenshots/image_input_to_meal_plan_output)
+
+Input in Text
+
+\![Meal Plan Output](screenshots/text_input_to_meal_plan_output/text_input_to_meal_plan_output1)
+![Meal Plan Output](screenshots/text_input_to_meal_plan_output/text_input_to_meal_plan_output2)
+![Meal Plan Output](screenshots/text_input_to_meal_plan_output/text_input_to_meal_plan_output3)
+
+Input in Image
+
+![Meal Plan Output](screenshots/image_input_to_meal_plan_output/image_input_to_meal_plan_output1)
+![Meal Plan Output](screenshots/image_input_to_meal_plan_output/image_input_to_meal_plan_output2)
+![Meal Plan Output](screenshots/image_input_to_meal_plan_output/image_input_to_meal_plan_output3)
 
 
 ### 3️⃣ Final Prompt Saved
