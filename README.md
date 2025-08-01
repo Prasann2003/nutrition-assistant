@@ -25,15 +25,15 @@ This demonstrates how the assistant responds to user input with a detailed, pers
 
 Input in Text
 
-\![Meal Plan Output](screenshots/text_input_to_meal_plan_output/text_input_to_meal_plan_output1)
-![Meal Plan Output](screenshots/text_input_to_meal_plan_output/text_input_to_meal_plan_output2)
-![Meal Plan Output](screenshots/text_input_to_meal_plan_output/text_input_to_meal_plan_output3)
+\![Meal Plan Output](screenshots/text_input_to_meal_plan_output/text_input_to_meal_plan_output1.png)
+![Meal Plan Output](screenshots/text_input_to_meal_plan_output/text_input_to_meal_plan_output2.png)
+![Meal Plan Output](screenshots/text_input_to_meal_plan_output/text_input_to_meal_plan_output3.png)
 
 Input in Image
 
-![Meal Plan Output](screenshots/image_input_to_meal_plan_output/image_input_to_meal_plan_output1)
-![Meal Plan Output](screenshots/image_input_to_meal_plan_output/image_input_to_meal_plan_output2)
-![Meal Plan Output](screenshots/image_input_to_meal_plan_output/image_input_to_meal_plan_output3)
+![Meal Plan Output](screenshots/image_input_to_meal_plan_output/image_input_to_meal_plan_output1.png)
+![Meal Plan Output](screenshots/image_input_to_meal_plan_output/image_input_to_meal_plan_output2.png)
+![Meal Plan Output](screenshots/image_input_to_meal_plan_output/image_input_to_meal_plan_output3.png)
 
 
 ### 3️⃣ Final Prompt Saved
